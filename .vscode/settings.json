@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "Join.C": "cpp",
-        "Stack.C": "cpp"
+        "Stack.C": "cpp",
+        "HeapAllocation.C": "cpp",
+        "Heap.C": "cpp"
     }
 }
