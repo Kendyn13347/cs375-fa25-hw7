@@ -4,6 +4,7 @@
         "Stack.C": "cpp",
         "HeapAllocation.C": "cpp",
         "Heap.C": "cpp",
-        "Threads.C": "cpp"
+        "Threads.C": "cpp",
+        "PintosHandler.C": "cpp"
     }
 }
